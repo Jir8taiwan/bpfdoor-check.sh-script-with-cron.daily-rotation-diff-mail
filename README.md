@@ -54,8 +54,8 @@ sudo rm -rf /var/log/bpfdoor-check
 
 
 ## Optional external config to override variables
-# 可調變數（建議放進 /etc/default/bpfdoor-check）
-# 可以把「標準端口」放進外部設定檔，改不同主機就不用改腳本
+- 可調變數（建議放進 /etc/default/bpfdoor-check）
+- 可以把「標準端口」放進外部設定檔，改不同主機就不用改腳本
 # Exmple：
 #/etc/default/bpfdoor-check
 STD_TCP_PORTS="21,22,25,80,110,139,143,443,445,465,587,5939,631,873,993,995,2222,3142,3306,5900,5901,6001,8891"

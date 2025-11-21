@@ -66,8 +66,12 @@ STD_UDP_PORTS="53,67,68,111,123,137,138,5353,41641"
 If this small code is helping, it can donate BTC/BCH/LTC/DOGE coin to me for encourage as following address:
 
 BTC - 3M4wWghm4MxmrSfXmHMEeCFNwP8Lxxqjzk
+
 BCH - bitcoincash:qq6ghvdmyusnse9735rd5q09ensacl8z8qzrlwf49q
+
 LTC - MR6HaFkfkmsfifX3jWu7xz33dULGotVUWB
+
 DOGE- DGEFd3AAfJrBuaUwc4P6R2ZT754Jon9fQ7
+
 Thank you very much.
 ************************************************************************************************************

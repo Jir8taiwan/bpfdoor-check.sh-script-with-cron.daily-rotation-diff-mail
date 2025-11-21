@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# cron.daily wrapper for bpfdoor_daily_check
+set -Eeuo pipefail
+/usr/local/sbin/bpfdoor_daily_check.sh

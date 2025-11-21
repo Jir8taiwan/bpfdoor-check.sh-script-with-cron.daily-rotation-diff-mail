@@ -1,0 +1,7 @@
+# /etc/default/bpfdoor-check
+# Override defaults from the shell script.
+# Example:
+# MAIL_TO="you@example.com"
+# MAIL_FROM="bpfdoor-check@$(hostname -f)"
+# SUBJECT_PREFIX="[bpfdoor-check]"
+# LOGDIR="/var/log/bpfdoor-check"

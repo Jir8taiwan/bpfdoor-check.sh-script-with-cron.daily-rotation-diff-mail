@@ -1,0 +1,20 @@
+# logrotate for bpfdoor-check daily logs
+/var/log/bpfdoor-check/*.log {
+    daily
+    rotate 30
+    missingok
+    compress
+    delaycompress
+    notifempty
+    create 0640 root adm
+}
+
+/var/log/bpfdoor-check/last_run.log {
+    # keep baseline uncompressed for diff
+    daily
+    rotate 7
+    missingok
+    copytruncate
+    notifempty
+    create 0640 root adm
+}
